@@ -1,0 +1,15 @@
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\bin\Debug\net6.0\Aula_Csharp.exe
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\bin\Debug\net6.0\Aula_Csharp.deps.json
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\bin\Debug\net6.0\Aula_Csharp.runtimeconfig.json
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\bin\Debug\net6.0\Aula_Csharp.dll
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\bin\Debug\net6.0\Aula_Csharp.pdb
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.AssemblyInfo.cs
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.dll
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\obj\Debug\net6.0\refint\Aula_Csharp.dll
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.pdb
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.genruntimeconfig.cache
+C:\Users\victo\source\repos\csharp_ernesto\Aula_Csharp\Aula_Csharp\obj\Debug\net6.0\ref\Aula_Csharp.dll
